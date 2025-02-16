@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+gspread
+loguru
+tenacity
+pydantic

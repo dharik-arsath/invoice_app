@@ -6,4 +6,4 @@ templates/
 *.spec*
 credentials.json
 *log*
-*.txt*
+*notes.txt*
